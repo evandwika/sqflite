@@ -108,6 +108,5 @@ flutter run
 
 ## 👤 Author
 
-Dibuat oleh: **M. Fadhlurrahman Thoriq** & 
-             **Raffi Gani Jabbaru**
+Dibuat oleh: **Evan Dwika Isfandra**
 
